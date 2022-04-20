@@ -28,3 +28,2313 @@
 [2022-03-27 15:46:25] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\webformyself\vendor\wfm\Router.php Строка | 59
                             
 ==========
+[2022-03-27 16:12:54] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 59
+                            
+==========
+[2022-03-27 16:34:56] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:34:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 60
+                            
+==========
+[2022-03-27 16:35:04] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:36:19] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:36:43] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:36:53] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:37:13] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:37:14] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:37:21] Текст ошибки:Unclosed '{' on line 9 | Файл | C:\OpenServer\domains\ishop\app\controllers\admin\MainController.php Строка | 10
+                            
+==========
+[2022-03-27 16:37:26] Текст ошибки:Unclosed '{' on line 9 | Файл | C:\OpenServer\domains\ishop\app\controllers\admin\MainController.php Строка | 10
+                            
+==========
+[2022-03-27 16:37:40] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:39:09] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:39:10] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:39:10] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:39:10] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:39:10] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:39:11] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:40:10] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:40:39] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:31] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:32] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:33] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:33] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:34] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:34] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:34] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:38] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:45:44] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 57
+                            
+==========
+[2022-03-27 16:48:33] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:48:54] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:50:59] Текст ошибки:Call to undefined method app\controllers\PageController::getModel() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 48
+                            
+==========
+[2022-03-27 16:51:19] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:51:40] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:51:54] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:31] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:32] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:32] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:33] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:33] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:33] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:33] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:34] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:52:47] Текст ошибки:Too few arguments to function wfm\View::render(), 0 passed in C:\OpenServer\domains\ishop\vendor\wfm\Controller.php on line 28 and exactly 1 expected | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 15
+                            
+==========
+[2022-03-27 16:54:53] Текст ошибки:Call to undefined method app\controllers\PageController::getView() | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 52
+                            
+==========
+[2022-03-27 16:58:41] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Main/index.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 25
+                            
+==========
+[2022-03-27 16:59:24] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Main/index.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 25
+                            
+==========
+[2022-03-27 17:10:11] Текст ошибки:Не найден шаблонC:\OpenServer\domains\ishop/app/views/layouts/test.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 35
+                            
+==========
+[2022-03-27 17:10:39] Текст ошибки:Не найден шаблонC:\OpenServer\domains\ishop/app/views/layouts/test.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 35
+                            
+==========
+[2022-03-27 17:11:18] Текст ошибки:Не найден шаблонC:\OpenServer\domains\ishop/app/views/layouts/test2.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 35
+                            
+==========
+[2022-03-27 17:48:40] Текст ошибки:Undefined array key "description" | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 43
+                            
+==========
+[2022-03-27 17:58:34] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-03-27 21:41:44] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-03-27 21:41:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-03-27 21:42:32] Текст ошибки:Undefined array key "id" | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Repository.php Строка | 627
+                            
+==========
+[2022-03-27 21:43:59] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-03-27 21:44:34] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-03-27 21:48:36] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 13:36:47] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 13:36:47] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 14:49:43] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:49:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 14:50:19] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:22] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:22] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:22] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:22] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:23] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:32] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:38] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:39] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:39] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:39] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:53] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:54] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:54] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:50:54] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 14:51:49] Текст ошибки:Undefined variable $test | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 4
+                            
+==========
+[2022-04-01 22:18:39] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:48:23] Текст ошибки:SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.names' doesn't exist | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка | 206
+                            
+==========
+[2022-04-01 22:48:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:50:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-01 22:59:31] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 19:49:42] Текст ошибки:Call to a member function getDatabase() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 53
+                            
+==========
+[2022-04-03 20:02:34] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:02:34] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:03:01] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:02] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:03] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:03] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:03] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:03] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:03] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:28] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:29] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:29] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:03:30] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:16] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:18] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:18] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:18] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:19] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:19] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:19] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:19] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:05:38] Текст ошибки:Call to a member function getDatabase() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 53
+                            
+==========
+[2022-04-03 20:05:39] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:05:39] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:05:39] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:06:06] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:07:04] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:07:05] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:07:43] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:08:25] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:08:39] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:08:41] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:08:41] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:08:41] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:08:41] Текст ошибки:Call to a member function find() on null | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php Строка | 1010
+                            
+==========
+[2022-04-03 20:09:25] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:09:25] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:09:25] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 20:26:29] Текст ошибки:Unterminated comment starting line 17 | Файл | C:\OpenServer\domains\ishop\app\controllers\MainController.php Строка | 17
+                            
+==========
+[2022-04-03 20:26:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:10:14] Текст ошибки:SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.produc_description' doesn't exist | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка | 206
+                            
+==========
+[2022-04-03 22:10:14] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:10:34] Текст ошибки:Undefined variable $products | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 45
+                            
+==========
+[2022-04-03 22:12:35] Текст ошибки:Undefined variable $products | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 45
+                            
+==========
+[2022-04-03 22:13:06] Текст ошибки:Undefined variable $products | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 45
+                            
+==========
+[2022-04-03 22:19:10] Текст ошибки:Undefined variable $products | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 45
+                            
+==========
+[2022-04-03 22:19:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:20:57] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:20:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:00] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:22:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:02] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:22:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:02] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:22:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:02] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:22:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:02] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:22:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:03] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:22:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:03] Текст ошибки:Call to a member function grep() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 55
+                            
+==========
+[2022-04-03 22:22:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:22:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:23:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:24:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:25:21] Текст ошибки:Undefined variable $slides | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 5
+                            
+==========
+[2022-04-03 22:25:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:25:46] Текст ошибки:Undefined variable $slides | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 6
+                            
+==========
+[2022-04-03 22:25:48] Текст ошибки:Undefined variable $slides | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 6
+                            
+==========
+[2022-04-03 22:25:49] Текст ошибки:Undefined variable $slides | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 6
+                            
+==========
+[2022-04-03 22:25:49] Текст ошибки:Undefined variable $slides | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 6
+                            
+==========
+[2022-04-03 22:26:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:27:03] Текст ошибки:Undefined variable $slides | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 14
+                            
+==========
+[2022-04-03 22:27:03] Текст ошибки:count(): Argument #1 ($var) must be of type Countable|array, null given | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 14
+                            
+==========
+[2022-04-03 22:29:40] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:31:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:31:41] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:33:12] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-03 22:33:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-04 21:38:12] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-04 21:52:28] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-04 21:53:37] Текст ошибки:syntax error, unexpected token "<", expecting end of file | Файл | C:\OpenServer\domains\ishop\app\views\Main\index.php Строка | 7
+                            
+==========
+[2022-04-04 21:53:37] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-08 21:34:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-08 21:34:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-08 21:34:47] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 10:49:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 10:49:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 10:53:50] Текст ошибки:Undefined array key "name" | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Registry.php Строка | 19
+                            
+==========
+[2022-04-09 11:40:06] Текст ошибки:preg_match(): Compilation failed: unrecognized character after (? or (?- at offset 10 | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 67
+                            
+==========
+[2022-04-09 11:41:17] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 11:41:28] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 11:44:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 11:44:25] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Product/view.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-09 12:02:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:02:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:02:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:02:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:04:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:04:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:04:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:04:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:04:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:05:06] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:05:06] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:05:06] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:05:06] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:05:06] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:57] Текст ошибки:Call to a member function getDatabase() on null | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 53
+                            
+==========
+[2022-04-09 12:06:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:06:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:07:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:07:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:07:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:07:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:07:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 12:28:27] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:29:27] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:29:29] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:29:57] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:29:58] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:30:24] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:30:25] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:30:25] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:30:25] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:30:26] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:30:49] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:32:47] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 12:33:04] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 13:12:31] Текст ошибки:Class "app\widgets\Language" not found | Файл | C:\OpenServer\domains\ishop\app\controllers\AppController.php Строка | 21
+                            
+==========
+[2022-04-09 13:13:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 13:13:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 13:13:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 13:13:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 13:13:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 13:30:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-09 13:32:39] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:32:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:32:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:32:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:32:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:33:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:33:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:33:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:33:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:33:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 62
+                            
+==========
+[2022-04-09 13:39:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:39:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:39:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:39:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:39:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:40:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:40:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:40:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:40:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:27] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:27] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:27] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:27] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:42:27] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:45:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:45:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:45:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:45:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:45:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:12] Текст ошибки:Not found fr | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 41
+                            
+==========
+[2022-04-09 13:46:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:46:20] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:50:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:50:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:50:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:50:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:50:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:51:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:51:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:51:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:51:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:51:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:01] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:10] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:10] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:10] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:10] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:52:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:54:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:54] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:54] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:54] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:54] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:55:54] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:56:03] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:57:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:57:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:57:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:57:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 13:57:02] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:09:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:11:27] Текст ошибки:require_once(C:\OpenServer\domains\ishop\app\widgets\languagelang_tpl.php): Failed to open stream: No such file or directory | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 56
+                            
+==========
+[2022-04-09 14:11:27] Текст ошибки:Failed opening required 'C:\OpenServer\domains\ishop\app\widgets\languagelang_tpl.php' (include_path='.') | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 56
+                            
+==========
+[2022-04-09 14:11:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:11:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:11:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:11:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:11:48] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:19:35] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 12
+                            
+==========
+[2022-04-09 14:19:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:19:38] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 12
+                            
+==========
+[2022-04-09 14:19:38] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:19:45] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 12
+                            
+==========
+[2022-04-09 14:19:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:21:15] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 12
+                            
+==========
+[2022-04-09 14:21:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:21:39] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 12
+                            
+==========
+[2022-04-09 14:21:39] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:25:00] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:25:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:25:11] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:25:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:26:44] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 19
+                            
+==========
+[2022-04-09 14:26:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:27:22] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 12
+                            
+==========
+[2022-04-09 14:27:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:27:28] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 12
+                            
+==========
+[2022-04-09 14:27:28] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:27:51] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:27:51] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:28:11] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:28:11] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:28:49] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:28:49] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:28:50] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:28:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:28:50] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:28:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:28:51] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:28:51] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:28:51] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:28:51] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:30:18] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:30:18] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:31:12] Текст ошибки:key(): Argument #1 ($array) must be of type array, null given | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 39
+                            
+==========
+[2022-04-09 14:31:12] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:31:36] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 14
+                            
+==========
+[2022-04-09 14:31:36] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:32:55] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 13
+                            
+==========
+[2022-04-09 14:32:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:32:56] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 13
+                            
+==========
+[2022-04-09 14:32:56] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:32:56] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 13
+                            
+==========
+[2022-04-09 14:32:56] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:33:15] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 13
+                            
+==========
+[2022-04-09 14:33:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 14:35:05] Текст ошибки:Cannot access offset of type string on string | Файл | C:\OpenServer\domains\ishop\app\widgets\language\lang_tpl.php Строка | 13
+                            
+==========
+[2022-04-09 14:35:05] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:22:26] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 17
+                            
+==========
+[2022-04-09 15:23:23] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 17
+                            
+==========
+[2022-04-09 15:23:24] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 17
+                            
+==========
+[2022-04-09 15:23:24] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 17
+                            
+==========
+[2022-04-09 15:23:24] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 17
+                            
+==========
+[2022-04-09 15:23:24] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 17
+                            
+==========
+[2022-04-09 15:23:35] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 16
+                            
+==========
+[2022-04-09 15:24:15] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 16
+                            
+==========
+[2022-04-09 15:24:16] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 16
+                            
+==========
+[2022-04-09 15:25:10] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 16
+                            
+==========
+[2022-04-09 15:25:10] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 16
+                            
+==========
+[2022-04-09 15:25:11] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 16
+                            
+==========
+[2022-04-09 15:25:11] Текст ошибки:Undefined array key "HTTP_REFERER" | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 16
+                            
+==========
+[2022-04-09 15:25:17] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:22] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:29] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:42] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:42] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:42] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:42] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:42] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:43] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:43] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:43] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:43] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:43] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:25:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:26:29] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:27:11] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:27:11] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:27:11] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:27:12] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:27:12] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:00] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:01] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:01] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:02] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:02] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:02] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:02] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:47] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:49] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:49] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:49] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:49] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:28:49] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:29:36] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:29:37] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:29:42] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:38] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:39] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:39] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:39] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:41] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:31:41] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:07] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:07] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:08] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:08] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:08] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:08] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:19] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:38] Текст ошибки:Not found language language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:39] Текст ошибки:Not found language language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:39] Текст ошибки:Not found language language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:33:40] Текст ошибки:Not found language language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:25] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:26] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:27] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:27] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:27] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:27] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:27] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:27] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:30] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:53] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:53] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:34:53] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:35:07] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:35:07] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:35:08] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:35:36] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 15:35:44] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:50] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:51] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:51] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:51] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:53] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:53] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:53] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:36:53] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:56:27] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:57:11] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 42
+                            
+==========
+[2022-04-09 15:57:50] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:58:48] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:58:49] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:58:49] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:58:50] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:58:50] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:58:50] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:59:22] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:59:23] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:59:23] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:59:23] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:59:23] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 15:59:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:22] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:23] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:23] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:56] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:57] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:57] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:57] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:57] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:58] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:00:58] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:01:19] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:01:20] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:01:20] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:01:20] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:01:20] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:01:28] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:01:28] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:02:43] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:02:59] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:03:00] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:03:00] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:03:00] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:03:00] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:03:00] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:05:01] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:05:02] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:05:40] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:06:51] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:06:51] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:06:51] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:06:51] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:06:52] Текст ошибки:Not found language | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-04-09 16:10:24] Текст ошибки:Trying to access array offset on value of type null | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 33
+                            
+==========
+[2022-04-09 16:11:54] Текст ошибки:Trying to access array offset on value of type null | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 33
+                            
+==========
+[2022-04-09 16:11:54] Текст ошибки:Trying to access array offset on value of type null | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 33
+                            
+==========
+[2022-04-09 16:12:02] Текст ошибки:Trying to access array offset on value of type null | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 33
+                            
+==========
+[2022-04-09 16:12:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:12:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:12:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:12:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:12:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:12:22] Текст ошибки:Trying to access array offset on value of type null | Файл | C:\OpenServer\domains\ishop\app\controllers\LanguageController.php Строка | 33
+                            
+==========
+[2022-04-09 16:13:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:13:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:13:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:13:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:13:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:13:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:13:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:13:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-09 16:15:08] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:31:26] Текст ошибки:Undefined array key "id" | Файл | C:\OpenServer\domains\ishop\app\models\Main.php Строка | 11
+                            
+==========
+[2022-04-10 20:31:27] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:32:53] Текст ошибки:Undefined array key "id" | Файл | C:\OpenServer\domains\ishop\app\models\Main.php Строка | 11
+                            
+==========
+[2022-04-10 20:37:15] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:39:14] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:40:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:40:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:40:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:40:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:40:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:44:10] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 20:58:52] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 23:19:41] Текст ошибки:array_merge(): Argument #2 must be of type array, int given | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Language.php Строка | 26
+                            
+==========
+[2022-04-10 23:19:41] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-10 23:21:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-11 21:41:44] Текст ошибки:file_put_contents(C:\OpenServer\domains\ishop/tmp/cache/098f6bcd4621d373cade4e832627b4f6txt): Failed to open stream: No such file or directory | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Cache.php Строка | 15
+                            
+==========
+[2022-04-11 21:41:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-11 21:42:54] Текст ошибки:Undefined variable $cache | Файл | C:\OpenServer\domains\ishop\app\controllers\MainController.php Строка | 18
+                            
+==========
+[2022-04-13 21:41:18] Текст ошибки:Class "Menu" not found | Файл | C:\OpenServer\domains\ishop\app\views\parts\header.php Строка | 79
+                            
+==========
+[2022-04-13 21:44:22] Текст ошибки:require(C:\OpenServer\domains\ishop\app\widgets\menu/menu_tpl.php): Failed to open stream: No such file or directory | Файл | C:\OpenServer\domains\ishop\app\widgets\menu\Menu.php Строка | 88
+                            
+==========
+[2022-04-13 21:55:30] Текст ошибки:Cannot redeclare app\widgets\menu\Menu::getMenuHtml() | Файл | C:\OpenServer\domains\ishop\app\widgets\menu\Menu.php Строка | 96
+                            
+==========
+[2022-04-13 21:55:30] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-13 21:55:50] Текст ошибки:Array to string conversion | Файл | C:\OpenServer\domains\ishop\app\widgets\menu\Menu.php Строка | 64
+                            
+==========
+[2022-04-15 21:26:30] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-15 21:26:30] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-15 21:26:43] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-15 21:45:54] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-15 21:46:01] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-15 21:47:32] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-15 21:50:51] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-15 21:53:12] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-15 21:55:52] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-15 21:57:03] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-15 21:58:36] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-16 15:57:56] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-16 15:59:04] Текст ошибки:compact(): Undefined variable $1 | Файл | C:\OpenServer\domains\ishop\app\controllers\MainController.php Строка | 25
+                            
+==========
+[2022-04-16 15:59:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-16 15:59:34] Текст ошибки:compact(): Undefined variable $1 | Файл | C:\OpenServer\domains\ishop\app\controllers\MainController.php Строка | 25
+                            
+==========
+[2022-04-16 15:59:35] Текст ошибки:compact(): Undefined variable $1 | Файл | C:\OpenServer\domains\ishop\app\controllers\MainController.php Строка | 25
+                            
+==========
+[2022-04-16 15:59:35] Текст ошибки:compact(): Undefined variable $1 | Файл | C:\OpenServer\domains\ishop\app\controllers\MainController.php Строка | 25
+                            
+==========
+[2022-04-16 15:59:35] Текст ошибки:compact(): Undefined variable $1 | Файл | C:\OpenServer\domains\ishop\app\controllers\MainController.php Строка | 25
+                            
+==========
+[2022-04-16 16:16:44] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-16 16:17:07] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/add.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-04-17 00:10:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:32] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:10:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:11:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:11:44] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:12:26] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:12:50] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:13:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:13:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:13:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:13:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:13:23] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:13:28] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-04-17 00:13:28] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 00:20:37] Текст ошибки:Undefined variable $slides | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-04-17 17:07:34] Текст ошибки:Метод app\controllers\CartController::deleteAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-04-17 17:07:34] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:22:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:22:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:22:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:22:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:22:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:56:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:56:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:56:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:56:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:56:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:59:58] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:59:58] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:59:58] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:59:58] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-17 21:59:58] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-19 22:35:52] Текст ошибки:Call to undefined method app\models\Cart::delete_item() | Файл | C:\OpenServer\domains\ishop\app\controllers\CartController.php Строка | 46
+                            
+==========
+[2022-04-19 22:35:55] Текст ошибки:Call to undefined method app\models\Cart::delete_item() | Файл | C:\OpenServer\domains\ishop\app\controllers\CartController.php Строка | 46
+                            
+==========
+[2022-04-19 22:36:01] Текст ошибки:Call to undefined method app\models\Cart::delete_item() | Файл | C:\OpenServer\domains\ishop\app\controllers\CartController.php Строка | 46
+                            
+==========
+[2022-04-19 22:36:16] Текст ошибки:Call to undefined method app\models\Cart::delete_item() | Файл | C:\OpenServer\domains\ishop\app\controllers\CartController.php Строка | 46
+                            
+==========
+[2022-04-19 22:36:28] Текст ошибки:Call to undefined method app\models\Cart::delete_item() | Файл | C:\OpenServer\domains\ishop\app\controllers\CartController.php Строка | 46
+                            
+==========
+[2022-04-20 21:19:51] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM product p JOIN product_description pd ON p.id = pd.product_id WHERE p.statu' at line 1 | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка | 206
+                            
+==========
+[2022-04-20 21:19:51] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:37] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:37] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:37] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:37] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:37] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:20:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:21:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:21:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:21:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:21:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:21:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:09] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:09] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:09] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:09] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:09] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:42:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:33] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:33] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:33] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:33] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:33] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:36] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:36] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:36] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:36] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:51:36] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:07] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:07] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:07] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:07] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:07] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-20 21:56:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========

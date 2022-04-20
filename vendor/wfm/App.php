@@ -3,6 +3,8 @@
 
 namespace wfm;
 
+use function Couchbase\defaultDecoder;
+
 class App
 {
     public static $app;
@@ -12,6 +14,7 @@ class App
         $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');
 
         new ErrorHandler();
+        session_start();
         self::$app = Registry::getInstance();
         $this->getParams();
         Router::dispatch($query);

@@ -2,6 +2,6 @@
 
 return [
     'admin_email' => 'maratmutigullin@yandex.com',
-    'site_name' => 'Техника',
+    'site_name' => 'ISHOP',
     'pagination' => 3,
 ];

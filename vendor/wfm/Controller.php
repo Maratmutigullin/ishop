@@ -6,13 +6,14 @@ namespace wfm;
 abstract class Controller
 {
     public array $data = [];
-    public array $meta = [];
+    public array $meta = ['title' => '', 'keywords' => '', 'description' => ''];
     public false|string $layout = '';
     public string $view = '';
     public object $model;
 
     public function __construct(public $route = [])
     {
+       // debug($this->route);
     }
     public function getModel()
     {
@@ -23,19 +24,36 @@ abstract class Controller
     }
     public function getView()
     {
-        $this->view = $this->view ?? $this->route['action'];
+        $this->view = $this->view ?: $this->route['action'];
+        (new View($this->route, $this->layout, $this->view, $this->meta))->render($this->data);
     }
     public function set($data)
     {
         $this->data = $data;
     }
-    public function setMeta($title = '', $discription = '', $keywords = '')
+    public function setMeta($title = '', $description = '', $keywords = '')
     {
         $this->meta = [
-            'title' => $title,
-            'discription' => $discription,
+            'title' =>$title,
+            'description' => $description,
             'keywords' => $keywords,
         ];
+    }
+    //определяем был ли отправлен ajax запрос
+    public function isAjax(): bool
+    {
+        return isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest';
+    }
+
+    public function loadView($view, $vars = [])
+    {
+        extract($vars);
+        $prefix = str_replace('\\', '/', $this->route['admin_prefix']);
+        require  APP . "/views/{$prefix}{$this->route['controller']}/{$view}.php";
+        die;
+       // $view_file = APP . "/views/{$prefix}{$this->route['controller']}/{$this->view}.php";
+
+
     }
  }
  

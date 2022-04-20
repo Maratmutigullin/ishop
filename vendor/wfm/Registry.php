@@ -16,7 +16,7 @@ class Registry
     }
     public function getProperty($name)
     {
-        return self::$properties['name'] ?? null;
+        return self::$properties[$name] ?? null;
     }
 
     public function getProperties(): array

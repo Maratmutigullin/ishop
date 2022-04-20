@@ -10,8 +10,8 @@ define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
 define("LAYOUT", 'ishop');
-define("PATH", 'http://webformyself');
-define("ADMIN", 'http://webformyself/admin');
+define("PATH", 'http://ishop');
+define("ADMIN", 'http://ishop/admin');
 define("NO_IMAGE", 'uploads/no_image.jpg');
 
 require_once ROOT . '/vendor/autoload.php';
