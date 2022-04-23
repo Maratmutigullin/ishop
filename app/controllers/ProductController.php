@@ -1,6 +1,7 @@
 <?php
 namespace app\controllers;
 
+use app\models\Breadcrumbs;
 use app\models\Product;
 use wfm\App;
 use wfm\Controller;
@@ -14,12 +15,16 @@ class ProductController extends AppController
         $lang = App::$app->getProperty('language');
         $product = $this->model->get_product($this->route['slug'], $lang);
         if(!$product){
-            throw  new \Exception("Товар {$this->route['slug']} не найден", 404);
+          //  throw  new \Exception("Товар {$this->route['slug']} не найден", 404);
+            $this->error_404();
+            return;
         }
+        $breadcrumbs = Breadcrumbs::getBreadcrumbs($product['category_id'], $product['title']);
+
         $gallery = $this->model->get_gallery($product['id']);
         $this->setMeta($product['title'], $product['description'], $product['keywords']);
-        $this->set(compact('product', 'gallery'));
+        $this->set(compact('product', 'gallery', 'breadcrumbs'));
     }
 }
 
-//посмотрел 19 урок
+//посмотрел 21 урок
