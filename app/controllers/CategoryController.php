@@ -7,6 +7,8 @@ namespace app\controllers;
 use app\models\Breadcrumbs;
 use app\models\Category;
 use wfm\App;
+use wfm\Pagination;
+use function Couchbase\defaultDecoder;
 
 /** @property Category $model */
 class CategoryController extends AppController
@@ -25,11 +27,20 @@ class CategoryController extends AppController
         $breadcrumbs = Breadcrumbs::getBreadcrumbs($category['id']);
         $ids = $this->model->getIds($category['id']);
         $ids = !$ids ? $category['id'] : $ids . $category['id'];
-        $products = $this->model->getProducts($ids, $lang);
+
+        //пагинация
+        $page = get('page');
+        $countProducts = App::$app->getProperty('pagination');
+        $total = $this->model->getCountProducts($ids);
+        $pagination = new Pagination($page, $countProducts, $total);
+        $start = $pagination->getStart();
+
+        $products = $this->model->getProducts($ids, $lang, $start, $countProducts);
         $this->setMeta($category['title'], $category['description'], $category['keywords']);
-        $this->set(compact('products', 'category', 'breadcrumbs'));
+        $this->set(compact('products', 'category', 'breadcrumbs', 'total', 'pagination'));
+
     }
 
 }
 
-//посмотрел 22 урок
+

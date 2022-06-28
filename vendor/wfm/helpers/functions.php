@@ -60,8 +60,7 @@ function get($key, $type = 'i')
 function post($key, $type = 's')
 {
     $param = $key;
-    $$param = $_GET[$param] ?? '';
-    //$page = $_GET['page']
+    $$param = $_POST[$param] ?? '';
     if($type == 'i' ){
         return (int)$$param;
     }elseif ($type == 'f'){
@@ -91,4 +90,9 @@ function get_cart_icon($id)
         $icon = '<i class="fas fa-shopping-cart"></i>';
     }
     return $icon;
+}
+
+function getFieldsValue($name)
+{
+       return isset($_SESSION['form_data'][$name]) ? h($_SESSION['form_data'][$name]) : '';
 }

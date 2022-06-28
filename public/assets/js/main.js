@@ -37,7 +37,12 @@ $(function() {
 			type: 'GET',
 			data: {id: id},
 			success: function (res) {
-				showCart(res);
+				const url = window.location.toString();
+				if (url.indexOf('cart/view') !== -1) {
+					window.location = url;
+				}else{
+					showCart();
+				}
 			},
 			error: function () {
 				alert('Error!');
@@ -79,6 +84,11 @@ $(function() {
 	});
 
 	// CART
+
+	$('#input-sort').on('change', function (){
+		window.location = PATH + window.location.pathname + '?'  + $(this).val();
+	})
+
 
 	$('.open-search').click(function(e) {
 		e.preventDefault();
@@ -124,4 +134,62 @@ $(function() {
 		window.location = PATH + '/language/change?lang=' + lang_code;
 	});
 
+	//добавление в избранное
+	$('.product-card').on('click', '.add-to-wishlist', function (e) {
+		e.preventDefault();
+		const id = $(this).data('id');
+		const $this = $(this);
+		$.ajax({
+			url: 'wishlist/add',
+			type: 'GET',
+			data: {id: id},
+			success: function (res) {
+				res = JSON.parse(res);
+				Swal.fire(
+					res.text,
+					'',
+					res.result
+				);
+				if (res.result == 'success') {
+					$this.removeClass('add-to-wishlist').addClass('delete-from-wishlist');
+					$this.find('i').removeClass('fa fa-heart').addClass('fas fa-hand-holding-heart');
+				}
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
+
+
+	$('.product-card').on('click', '.delete-from-wishlist', function (e) {
+		e.preventDefault();
+		const id = $(this).data('id');
+		const $this = $(this);
+		$.ajax({
+			url: 'wishlist/delete',
+			type: 'GET',
+			data: {id: id},
+			success: function (res) {
+				const url = window.location.toString();
+				if (url.indexOf('wishlist') !== -1) {
+					window.location = url;
+				} else {
+					res = JSON.parse(res);
+					Swal.fire(
+						res.text,
+						'',
+						res.result
+					);
+					if (res.result == 'success') {
+						$this.removeClass('delete-from-wishlist').addClass('add-to-wishlist');
+						$this.find('i').removeClass('fas fa-hand-holding-heart').addClass('fa fa-heart');
+					}
+				}
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
 });

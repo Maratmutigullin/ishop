@@ -29,9 +29,26 @@ class Category extends AppModel
         return $ids;
     }
 
-    public function getProducts($ids, $lang): array
+    public function getProducts($ids, $lang, $start, $countProducts): array
     {
-        return R::getAll("SELECT p.*, pd.* FROM product p JOIN product_description pd on p.id = pd.product_id WHERE p.status = 1 AND p.category_id IN ($ids) AND pd.language_id = ?", [$lang['id']]);
+        $sort_values = [
+            'title_asc' => 'ORDER BY title ASC',
+            'title_desc' => 'ORDER BY title DESC',
+            'price_asc' => 'ORDER BY price ASC',
+            'price_desc' => 'ORDER BY price DESC',
+        ];
+        $order_by = '';
+        if (isset($_GET['sort']) && array_key_exists($_GET['sort'], $sort_values)) {
+            $order_by = $sort_values[$_GET['sort']];
+        }
+
+//        return R::getAll("SELECT p.*, pd.* FROM product p JOIN product_description pd on p.id = pd.product_id WHERE p.status = 1 AND p.category_id IN ($ids) AND pd.language_id = ? $order_by LIMIT $start, $countProducts", [$lang['id']]);
+        return R::getAll("SELECT p.*, pd.* FROM product p JOIN product_description pd on p.id = pd.product_id WHERE p.status = 1 AND p.category_id IN ($ids) AND pd.language_id = ? $order_by LIMIT  $countProducts", [$lang['id']]);
     }
 
+    //получаем общее кол-во товаров
+    public function getCountProducts($ids)
+    {
+        return R::count('product', "category_id IN ($ids) AND status = 1");
+    }
 }

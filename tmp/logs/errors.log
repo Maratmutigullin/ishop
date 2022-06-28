@@ -2452,3 +2452,270 @@
 [2022-04-25 22:02:54] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.language' in 'where clause' | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка | 206
                             
 ==========
+[2022-04-25 22:40:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-29 21:01:57] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-29 21:05:08] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-29 21:05:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-29 21:09:27] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-29 21:09:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-29 21:21:24] Текст ошибки:Undefined property: wfm\Pagination::$countPages | Файл | C:\OpenServer\domains\ishop\app\views\Category\view.php Строка | 63
+                            
+==========
+[2022-04-29 21:21:24] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-04-29 21:22:33] Текст ошибки:Undefined property: wfm\Pagination::$countPages | Файл | C:\OpenServer\domains\ishop\app\views\Category\view.php Строка | 63
+                            
+==========
+[2022-04-29 21:23:30] Текст ошибки:Undefined property: wfm\Pagination::$countPage | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Pagination.php Строка | 32
+                            
+==========
+[2022-05-02 22:28:04] Текст ошибки:Undefined variable $order_by | Файл | C:\OpenServer\domains\ishop\app\models\Category.php Строка | 34
+                            
+==========
+[2022-05-02 22:28:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-02 22:36:31] Текст ошибки:Call to undefined method app\models\Category::get_category() | Файл | C:\OpenServer\domains\ishop\app\controllers\CategoryController.php Строка | 19
+                            
+==========
+[2022-05-02 22:44:46] Текст ошибки:foreach() argument must be of type array|object, null given | Файл | C:\OpenServer\domains\ishop\app\models\Category.php Строка | 23
+                            
+==========
+[2022-05-02 22:45:22] Текст ошибки:syntax error, unexpected variable "$ids" | Файл | C:\OpenServer\domains\ishop\app\models\Category.php Строка | 23
+                            
+==========
+[2022-05-02 23:01:55] Текст ошибки:Undefined property: wfm\Pagination::$perpage | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Pagination.php Строка | 26
+                            
+==========
+[2022-05-02 23:02:13] Текст ошибки:Undefined property: wfm\Pagination::$perpage | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Pagination.php Строка | 107
+                            
+==========
+[2022-05-02 23:43:21] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-02 23:57:50] Текст ошибки:Division by zero | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Pagination.php Строка | 26
+                            
+==========
+[2022-05-02 23:58:49] Текст ошибки:Call to undefined method app\models\Search::getFindProducs() | Файл | C:\OpenServer\domains\ishop\app\controllers\SearchController.php Строка | 22
+                            
+==========
+[2022-05-03 00:00:42] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-03 12:42:18] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:42:19] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-03 12:42:41] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:42:41] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:42:42] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:42:42] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:42:42] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:42:58] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:43:03] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:43:27] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:44:05] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 33
+                            
+==========
+[2022-05-03 12:44:14] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 33
+                            
+==========
+[2022-05-03 12:44:44] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:44:52] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:44:58] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:45:31] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:45:39] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:45:42] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:46:42] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:46:42] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:46:43] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 12:47:49] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 13:04:30] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 13:04:45] Текст ошибки:Cannot assign string to property wfm\Controller::$data of type array | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Controller.php Строка | 32
+                            
+==========
+[2022-05-03 22:59:28] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-03 23:00:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-03 23:24:50] Текст ошибки:Not found wishlist | Файл | C:\OpenServer\domains\ishop\app\widgets\language\Language.php Строка | 43
+                            
+==========
+[2022-05-03 23:26:06] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Wishlist/index.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-05-03 23:31:40] Текст ошибки:Call to undefined function app\controllers\compoct() | Файл | C:\OpenServer\domains\ishop\app\controllers\WishlistController.php Строка | 15
+                            
+==========
+[2022-05-03 23:32:01] Текст ошибки:Метод app\controllers\WishlistController::deleteAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-05-11 22:08:28] Текст ошибки:Class "Page" not found | Файл | C:\OpenServer\domains\ishop\app\views\parts\footer.php Строка | 11
+                            
+==========
+[2022-05-11 22:11:19] Текст ошибки:Class "app\widgets\page\Page" not found | Файл | C:\OpenServer\domains\ishop\app\views\parts\footer.php Строка | 11
+                            
+==========
+[2022-05-11 22:12:35] Текст ошибки:Class "Page" not found | Файл | C:\OpenServer\domains\ishop\app\views\parts\footer.php Строка | 11
+                            
+==========
+[2022-05-11 22:13:39] Текст ошибки:Class "app\widgets\page\Page" not found | Файл | C:\OpenServer\domains\ishop\app\views\parts\footer.php Строка | 13
+                            
+==========
+[2022-05-11 22:17:39] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-11 22:17:39] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-12 22:31:13] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'page.id' in 'on clause' | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка | 206
+                            
+==========
+[2022-05-12 22:31:13] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-16 21:13:26] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-16 21:14:31] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-19 13:28:43] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-19 13:49:40] Текст ошибки:Fail to load language file 'C:\OpenServer\domains\ishop/applanguages/validator/lang/ru.php' | Файл | C:\OpenServer\domains\ishop\vendor\vlucas\valitron\src\Valitron\Validator.php Строка | 118
+                            
+==========
+[2022-05-22 10:49:07] Текст ошибки:Call to undefined function uset() | Файл | C:\OpenServer\domains\ishop\app\views\User\signup.php Строка | 53
+                            
+==========
+[2022-05-22 10:49:07] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 10:49:10] Текст ошибки:Call to undefined function uset() | Файл | C:\OpenServer\domains\ishop\app\views\User\signup.php Строка | 53
+                            
+==========
+[2022-05-22 15:08:55] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 15:17:21] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 15:17:37] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 15:23:33] Текст ошибки:Undefined constant "app\controllers\user" | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 58
+                            
+==========
+[2022-05-22 15:23:33] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 15:58:35] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 15:58:35] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 15:59:00] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 15:59:00] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 16:00:41] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 16:00:45] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 16:00:45] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 16:01:51] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 16:01:51] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-05-22 16:01:52] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 16:01:52] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 16:01:52] Текст ошибки:Контроллер не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 61
+                            
+==========
+[2022-05-22 16:02:08] Текст ошибки:Call to undefined function get_field_value() | Файл | C:\OpenServer\domains\ishop\app\views\Cart\view.php Строка | 59
+                            
+==========
+[2022-05-22 16:02:55] Текст ошибки:Call to undefined function get_field_value() | Файл | C:\OpenServer\domains\ishop\app\views\Cart\view.php Строка | 59
+                            
+==========
+[2022-05-22 16:04:34] Текст ошибки:Call to undefined function getFieldValue() | Файл | C:\OpenServer\domains\ishop\app\views\Cart\view.php Строка | 59
+                            
+==========
+[2022-05-22 16:08:56] Текст ошибки:Call to undefined function getFieldValue() | Файл | C:\OpenServer\domains\ishop\app\views\Cart\view.php Строка | 59
+                            
+==========
+[2022-05-22 16:10:25] Текст ошибки:Call to undefined function get_field_value() | Файл | C:\OpenServer\domains\ishop\app\views\Cart\view.php Строка | 73
+                            
+==========
+[2022-05-22 16:26:33] Текст ошибки:Call to undefined function getFieldValue() | Файл | C:\OpenServer\domains\ishop\app\views\Cart\view.php Строка | 59
+                            
+==========

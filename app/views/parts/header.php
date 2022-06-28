@@ -32,7 +32,7 @@ use wfm\View;
                     </a>
                 </div>
                 <div class="col text-end icons">
-                    <form>
+                    <form action="search">
                         <div class="input-group" id="search">
                             <input type="text" class="form-control" placeholder="<?php __('tpl_search'); ?>" name="s">
                             <button class="btn close-search" type="button"><i class="fas fa-times"></i></i></button>
@@ -47,7 +47,7 @@ use wfm\View;
                         <span class="badge bg-danger rounded-pill count-items"><?= $_SESSION['cart.qty'] ?? 0 ?></span>
                     </a>
 
-                    <a href="#"><i class="far fa-heart"></i></a>
+                    <a href="wishlist"><i class="far fa-heart"></i></a>
 
                     <div class="dropdown d-inline-block">
                         <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
@@ -55,11 +55,11 @@ use wfm\View;
                         </a>
                         <ul class="dropdown-menu">
                             <?php if(empty($_SESSION['user'])): ?>
-                            <li><a class="dropdown-item" href="#"><?php __('tpl_login'); ?></a></li>
-                            <li><a class="dropdown-item" href="#"><?php __('tpl_signup'); ?></a></li>
+                            <li><a class="dropdown-item" href="user/login"><?php __('tpl_login'); ?></a></li>
+                            <li><a class="dropdown-item" href="user/signup"><?php __('tpl_signup'); ?></a></li>
                             <?php else: ?>
-                                <li><a class="dropdown-item" href="#"><?php __('tpl_cabinet'); ?></a></li>
-                                <li><a class="dropdown-item" href="#"><?php __('tpl_logout'); ?></a></li>
+                                <li><a class="dropdown-item" href="user/cabinet"><?php __('tpl_cabinet'); ?></a></li>
+                                <li><a class="dropdown-item" href="user/logout"><?php __('tpl_logout'); ?></a></li>
                             <?php endif; ?>
                         </ul>
                     </div>
