@@ -6,6 +6,7 @@
       <path value="$PROJECT_DIR$/vendor/wfm/helpers" />
       <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
       <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0">

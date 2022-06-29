@@ -53,6 +53,15 @@ private static $installed = array (
       ),
       'reference' => '7d1ce93d6c6b8155a3912e4383a8b30db46e2db8',
     ),
+    'phpmailer/phpmailer' => 
+    array (
+      'pretty_version' => 'v6.6.3',
+      'version' => '6.6.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9400f305a898f194caff5521f64e5dfa926626f3',
+    ),
     'vlucas/valitron' => 
     array (
       'pretty_version' => 'v1.4.10',
