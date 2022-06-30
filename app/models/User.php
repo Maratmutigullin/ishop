@@ -67,4 +67,19 @@ class User extends AppModel
         }
         return false;
     }
+    //кол-во заказов User
+    public function get_count_orders($user_id): int
+    {
+        return R::count('orders', 'user_id = ?', [$user_id]);
+    }
+    //заказы пользователя
+    public function getUserOrders($start, $perpage, $user_id): array
+    {
+        return R::getAll("SELECT * FROM orders WHERE user_id = ? ORDER BY id DESC LIMIT $start, $perpage", [$user_id]);
+    }
+    //заказ Usera
+    public function getUserOrder($id): array
+    {
+        return R::getAll("SELECT o.*, op.* FROM orders o JOIN order_product op on o.id = op.order_id WHERE o.id = ?", [$id]);
+    }
 }

@@ -22,6 +22,7 @@ abstract class Controller
             $this->model = new $model();
         }
     }
+    //записываются данные и через метод render передаются в View
     public function getView()
     {
         $this->view = $this->view ?: $this->route['action'];

@@ -2719,3 +2719,69 @@
 [2022-05-22 16:26:33] Текст ошибки:Call to undefined function getFieldValue() | Файл | C:\OpenServer\domains\ishop\app\views\Cart\view.php Строка | 59
                             
 ==========
+[2022-06-29 23:17:03] Текст ошибки:Метод app\controllers\UserController::ordersAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-06-29 23:17:04] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-06-30 21:41:52] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '7 ORDER BY id DESC LIMIT 9, 1' at line 1 | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка | 206
+                            
+==========
+[2022-06-30 21:41:53] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-06-30 21:49:34] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-06-30 21:50:23] Текст ошибки:Метод app\controllers\UserController::orderAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-06-30 22:17:36] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 99
+                            
+==========
+[2022-06-30 22:17:45] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 99
+                            
+==========
+[2022-06-30 22:17:54] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 99
+                            
+==========
+[2022-06-30 22:19:49] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 99
+                            
+==========
+[2022-06-30 22:20:00] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 99
+                            
+==========
+[2022-06-30 22:20:02] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 99
+                            
+==========
+[2022-06-30 22:22:55] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 100
+                            
+==========
+[2022-06-30 22:23:06] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/clear.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-06-30 22:23:08] Текст ошибки:Не найден вид C:\OpenServer\domains\ishop/app/views/Cart/clear.php | Файл | C:\OpenServer\domains\ishop\vendor\wfm\View.php Строка | 29
+                            
+==========
+[2022-06-30 22:23:57] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 100
+                            
+==========
+[2022-06-30 22:24:04] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 100
+                            
+==========
+[2022-06-30 22:24:06] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 100
+                            
+==========
+[2022-06-30 22:27:42] Текст ошибки:Not found order | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 100
+                            
+==========
+[2022-06-30 22:34:54] Текст ошибки:Метод app\controllers\UserController::filesAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-06-30 22:34:56] Текст ошибки:Метод app\controllers\UserController::credentialsAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-06-30 22:34:58] Текст ошибки:Метод app\controllers\UserController::filesAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========

@@ -4,6 +4,9 @@
 namespace app\controllers;
 
 use app\models\User;
+use PHPMailer\PHPMailer\Exception;
+use wfm\App;
+use wfm\Pagination;
 
 /** @property User $model */
 class UserController extends AppController
@@ -58,4 +61,46 @@ class UserController extends AppController
         }
         redirect(base_url()) . 'user/login';
     }
+
+    public function cabinetAction()
+    {
+        if (!User::checkAuth()) {
+            redirect(base_url()) . 'user/login';
+        }
+        $this->setMeta(___('tpl_cabinet'));
+    }
+    //меню личного кабинета => Заказы
+    public function ordersAction()
+    {
+        if(!User::checkAuth()){
+            redirect(base_url() . 'user/login');
+        }
+        $page = get('page');
+        //$perpage = App::$app->getProperty('pagination');
+        $perpage = 1;
+        $total = $this->model->get_count_orders($_SESSION['user']['id']);
+        $pagination = new Pagination($page, $perpage, $total);
+        $start = $pagination->getStart();
+        $orders = $this->model->getUserOrders($start, $perpage,$_SESSION['user']['id']);
+        $this->setMeta(___('user_orders_title'));
+        $this->set(compact('orders', 'pagination', 'total'));
+    }
+
+    //страница заказа
+    public function orderAction()
+    {
+        if(!User::checkAuth()){
+            redirect(base_url() . 'user/login');
+        }
+        //id заказа
+        $id = get('id');
+        $order = $this->model->getUserOrder($id);
+
+        if(!$order){
+            throw new \Exception('Not found order', 404);
+        }
+        $this->setMeta(___('user_order_title'));
+        $this->set(compact('order'));
+    }
 }
+//посмотрел 42 урок
