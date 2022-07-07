@@ -102,5 +102,24 @@ class UserController extends AppController
         $this->setMeta(___('user_order_title'));
         $this->set(compact('order'));
     }
+
+    //файлы
+    public function filesAction()
+    {
+        if(!User::checkAuth()){
+            redirect(base_url() . 'user/login');
+        }
+        $lang = App::$app->getProperty('language');
+        $page = get('page');
+        $perpage = App::$app->getProperty('pagination');
+        $total = $this->model->getCountFiles();
+        $pagination = new Pagination($page, $perpage, $total);
+        $start = $pagination->getStart();
+
+        $files = $this->model->getUserFiles($start, $perpage, $lang);
+        $this->setMeta(___('user_files_title'));
+        $this->set(compact('files',  'pagination', 'total'));
+    }
+
 }
-//посмотрел 42 урок
+//посомтрел 43 урок
