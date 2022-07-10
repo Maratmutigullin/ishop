@@ -2845,3 +2845,18 @@
 [2022-07-07 22:40:18] Текст ошибки:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл | C:\OpenServer\domains\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php Строка | 206
                             
 ==========
+[2022-07-10 16:40:16] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-07-10 19:43:42] Текст ошибки:Метод app\controllers\UserController::downloadAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-07-10 19:43:42] Текст ошибки:Страница не найдена | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 64
+                            
+==========
+[2022-07-10 19:51:27] Текст ошибки:Метод app\controllers\UserController::credentialsAction не найден | Файл | C:\OpenServer\domains\ishop\vendor\wfm\Router.php Строка | 58
+                            
+==========
+[2022-07-10 19:59:16] Текст ошибки:Call to undefined method app\models\User::get_user_file() | Файл | C:\OpenServer\domains\ishop\app\controllers\UserController.php Строка | 132
+                            
+==========
