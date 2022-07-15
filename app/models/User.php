@@ -21,6 +21,8 @@ class User extends AppModel
         'lengthMin' => [
             ['password', 6]
         ],
+        //при наличии этих полей валидаторы required будут применины а если нет то не будут
+        'optional' => ['email', 'password'],
     ];
     public array $labels = [
         'email' => 'tpl_signup_email_input',

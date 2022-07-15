@@ -11,26 +11,64 @@ use wfm\Pagination;
 /** @property User $model */
 class UserController extends AppController
 {
+    //учетные данные
+    public function credentialsAction()
+    {
+        if (!User::checkAuth()) {
+            redirect(base_url() . 'ueser/login');
+        }
+        $this->model->load();
+        if (empty($_POST)) {
+            if (empty($this->model->attributes['password'])) {
+                unset($this->model->attributes['password']);
+            }
+            if (empty($this->model->attributes['email'])) {
+                unset($this->model->attributes['email']);
+            }
+            if (!$this->model->validate($this->model->attributes)) {
+                $this->model->getErrors();
+
+            } else {
+                if (!empty($this->model->attributes['password'])) {
+                    $this->model->attributes['password'] = password_hash($this->model->attributes['password'], PASSWORD_DEFAULT);
+                }
+                //обновляем данные о пользователе
+                if ($this->model->update('user', $_SESSION['user']['id'])) {
+                    $_SESSION['success'] = ___('user_credentials_success');
+                    foreach ($this->model->attributes as $k => $v) {
+                        if (!empty($v) && $k != 'password') {
+                            $_SESSION['user'][$k] = $v;
+                        }
+                    }
+                } else {
+                    $_SESSION['errors'] = ___('user_credentials_error');
+
+                }
+            }
+            redirect();
+        }
+        $this->setMeta(___('user_credentials_title'));
+    }
+
     public function signupAction()
     {
-        if(User::checkAuth()) {
+        if (User::checkAuth()) {
             redirect(base_url());
         }
-        if(!empty($_POST)){
-            $data = $_POST ;
-            $this->model->load($data);
-        if(!$this->model->validate($data) || !$this->model->checkUnique()){
-            $this->model->getErrors();
-            $_SESSION['form_data'] = $data;
-        }else{
-            $this->model->attributes['password'] = password_hash($this->model->attributes['password'], PASSWORD_DEFAULT);
-            if($this->model->save('user')){
-                $_SESSION['success'] = ___('user_signup_success_register');
-            }else{
-                $_SESSION['errors'] = ___('user_signup_error_register');
+        if (!empty($_POST)) {
+            $this->model->load();
+            if (!$this->model->validate($this->model->attributes) || !$this->model->checkUnique()) {
+                $this->model->getErrors();
+                $_SESSION['form_data'] = $this->model->attributes;
+            } else {
+                $this->model->attributes['password'] = password_hash($this->model->attributes['password'], PASSWORD_DEFAULT);
+                if ($this->model->save('user')) {
+                    $_SESSION['success'] = ___('user_signup_success_register');
+                } else {
+                    $_SESSION['errors'] = ___('user_signup_error_register');
 
+                }
             }
-        }
             redirect();
         }
         $this->setMeta(___('tpl_signup'));
@@ -54,6 +92,7 @@ class UserController extends AppController
 
         $this->setMeta(___('tpl_login'));
     }
+
     public function logoutAction()
     {
         if (User::checkAuth()) {
@@ -69,10 +108,11 @@ class UserController extends AppController
         }
         $this->setMeta(___('tpl_cabinet'));
     }
+
     //меню личного кабинета => Заказы
     public function ordersAction()
     {
-        if(!User::checkAuth()){
+        if (!User::checkAuth()) {
             redirect(base_url() . 'user/login');
         }
         $page = get('page');
@@ -81,7 +121,7 @@ class UserController extends AppController
         $total = $this->model->get_count_orders($_SESSION['user']['id']);
         $pagination = new Pagination($page, $perpage, $total);
         $start = $pagination->getStart();
-        $orders = $this->model->getUserOrders($start, $perpage,$_SESSION['user']['id']);
+        $orders = $this->model->getUserOrders($start, $perpage, $_SESSION['user']['id']);
         $this->setMeta(___('user_orders_title'));
         $this->set(compact('orders', 'pagination', 'total'));
     }
@@ -89,14 +129,14 @@ class UserController extends AppController
     //страница заказа
     public function orderAction()
     {
-        if(!User::checkAuth()){
+        if (!User::checkAuth()) {
             redirect(base_url() . 'user/login');
         }
         //id заказа
         $id = get('id');
         $order = $this->model->getUserOrder($id);
 
-        if(!$order){
+        if (!$order) {
             throw new \Exception('Not found order', 404);
         }
         $this->setMeta(___('user_order_title'));
@@ -106,7 +146,7 @@ class UserController extends AppController
     //файлы
     public function filesAction()
     {
-        if(!User::checkAuth()){
+        if (!User::checkAuth()) {
             redirect(base_url() . 'user/login');
         }
         $lang = App::$app->getProperty('language');
@@ -118,9 +158,9 @@ class UserController extends AppController
 
         $files = $this->model->getUserFiles($start, $perpage, $lang);
         $this->setMeta(___('user_files_title'));
-        $this->set(compact('files',  'pagination', 'total'));
+        $this->set(compact('files', 'pagination', 'total'));
     }
-    //
+
     public function downloadAction()
     {
         if (!User::checkAuth()) {
@@ -149,4 +189,5 @@ class UserController extends AppController
     }
 }
 
-//44 урок
+//45 урок 26 мин
+//view + language => credentials.php
